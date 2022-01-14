@@ -1,0 +1,40 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+
+}
+
+canvas {
+  width: 600px;
+  height: 600px;
+  transform: none;
+  position: relative;
+  left: calc(50% - 300px);
+}
+
+input {
+  display: none;
+}
+
+h1 {
+  font-family: arial;
+  color: white;
+  margin: auto;
+  width: 400px;
+  letter-spacing: 10px;
+  text-align: center;
+  left: calc(50% - 250px);
+}
+
+button {
+  width: 150px;
+  height: 50px;
+  border: 5px solid white;
+  border-radius: 25px;
+  background: none;
+  left: calc(50% - 75px);
+  color: white;
+  letter-spacing: 2px;
+  position: relative;
+}
