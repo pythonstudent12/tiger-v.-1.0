@@ -1,8 +1,0 @@
-https://codepen.io/ZippCodder/pen/OJRvJpN
-
-
-
-<div class="main">
-  <audio src="track.mp3" id="player" controls loop  crossorigin="anonymous" type="audio/mp3"></audio>
-  <canvas id="myCanvas" width=340 height=300></canvas>
-</div>
